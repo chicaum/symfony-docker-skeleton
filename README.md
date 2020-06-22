@@ -2,6 +2,8 @@
 
 A [Docker](https://www.docker.com/)-based installer and runtime for the [Symfony](https://symfony.com) web framework, with full [HTTP/2](https://symfony.com/doc/current/weblink.html) and HTTPS support.
 
+Generated from [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker)
+
 ## Getting Started
 
 1. Run `docker-compose up` (the logs will be displayed in the current shell)
